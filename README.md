@@ -35,3 +35,6 @@ This date difference will tell you
 
 #### Additional exploratory analysis:
 * To What distribution given `Days` data confirms to? 
+
+## 1.4 Conlusion: 
+TBD
